@@ -27,7 +27,7 @@ function FakeDataBase2(id, details) {
     });
 }
 
-async function updateCatDetails(id, details){
+function updateCatDetails(id, details){
     const dbResult = await FakeDataBase2(id, details);
     return dbResult;
 }
