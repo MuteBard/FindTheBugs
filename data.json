@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Ruth",
+        "address": "Ap #301-5020 Proin Av.",
+        "phone": "(579) 916-9190",
+        "region": "Biobío",
+        "country": "Mexico",
+        "postalZip": "22371"
+    },
+    {
+        "id": 2,
+        "name": "Spot",
+        "address": "893-7810 Sit Rd.",
+        "phone": "(730) 363-9587",
+        "region": "Kaduna",
+        "country": "Austria",
+        "postalZip": "7171"
+    },
+    {
+        "id": 3,
+        "name": "Priscilla",
+        "address": "4025 Non Rd.",
+        "phone": "1-459-418-1855",
+        "region": "Punjab",
+        "country": "Pakistan",
+        "postalZip": "55148"
+    },
+    {
+        "id": 4,
+        "name": "Ori",
+        "address": "Ap #192-9907 Ut, Ave",
+        "phone": "1-683-833-1367",
+        "region": "Michoacán",
+        "country": "Peru",
+        "postalZip": "548680"
+    },
+    {
+        "id": 5,
+        "name": "Sabi",
+        "address": "979-6735 Purus Road",
+        "phone": "(613) 639-1655",
+        "region": "Sardegna",
+        "country": "France",
+        "postalZip": "24319"
+    },
+    {
+        "id": 6,
+        "name": "Bowser",
+        "address": "P.O. Box 469, 9740 Libero. St.",
+        "phone": "1-391-611-4482",
+        "region": "Queensland",
+        "country": "Costa Rica",
+        "postalZip": "21103"
+    },
+    {
+        "id": 7,
+        "name": "Giant",
+        "address": "Ap #886-2078 Justo Avenue",
+        "phone": "1-496-857-5463",
+        "region": "Benue",
+        "country": "France",
+        "postalZip": "8535"
+    },
+    {
+        "id": 8,
+        "name": "Knox",
+        "address": "P.O. Box 973, 2831 Tempor Rd.",
+        "phone": "1-485-167-8827",
+        "region": "Odisha",
+        "country": "Canada",
+        "postalZip": "05211"
+    },
+    {
+        "id": 9,
+        "name": "Sydney",
+        "address": "9553 Et Ave",
+        "phone": "1-893-373-8175",
+        "region": "Antioquia",
+        "country": "Sweden",
+        "postalZip": "299257"
+    },
+    {
+        "id": 10,
+        "name": "Orson",
+        "address": "9086 Et, Road",
+        "phone": "(397) 555-3436",
+        "region": "FATA",
+        "country": "Belgium",
+        "postalZip": "62895"
+    }
+]
