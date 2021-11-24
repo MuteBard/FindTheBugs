@@ -15,10 +15,17 @@ app.get('/cats/:id', async (req, res) => {
   res.send(result);
 })
 
+// app.post('/cats/update/:id', async (req, res) => {
+//   const { id } = req.params;
+//   const { details } = req.body;
+//   const result = service.updateCatDetails(id, details);
+//   res.send(result);
+// })
+
 app.post('/cats/update/:id', async (req, res) => {
   const { id } = req.params;
   const { details } = req.body;
-  const result = service.updateCatDetails(id, details);
+  const result = await service.updateCatDetails2(id, details);
   res.send(result);
 })
 
